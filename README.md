@@ -4,6 +4,7 @@
   <p>The main objective of the lab is to comprehend the usage of sysmon , why is it so important and how to install it on windows host and understand Event IDs.</p>
 
 <h2>How to Install Sysmon?</h2>
+  
   ![image](https://github.com/user-attachments/assets/869824b4-807b-4c7b-9584-8be8f728f974)
 
 go to olaf sysmon for accessing sysmon config.xml file
